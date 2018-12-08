@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelpGui:jar">
+    <output-path>$USER_HOME$/Desktop/Spigot Plugins/helpGUI</output-path>
+    <root id="archive" name="HelpGui.jar">
+      <element id="module-output" name="HelpGui" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Minecraft Test server/Spigot Server/Spigot/Spigot-API/target/spigot-api-1.13.2-R0.1-SNAPSHOT-shaded.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

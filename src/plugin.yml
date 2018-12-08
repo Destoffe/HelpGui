@@ -1,0 +1,10 @@
+main: relicrealm.helpGUI.Main
+name: helpGUI
+version: 1.0
+author: destoffe
+description: Simple plugin that links discordLink in chat
+commands:
+  helpGUI:
+    description: Help GUI
+    permission: helpGUI.show
+    permission-message: You dont have permission to use this
